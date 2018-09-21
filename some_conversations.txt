@@ -1,0 +1,36 @@
+> hey
+Bot: hey .
+> who are you
+Bot: we re you just ten seconds later !
+> Where to go
+Bot: i have no idea .
+> hmm
+Bot: stop making candy !
+> what
+Bot: i made that joke up .
+> thanks
+Bot: so zack s pretty nice uh ?
+> go away
+Bot: hi .
+> where are you from
+Bot: love you .
+> why you do this
+Bot: i don t think i can .
+> i am looking for something
+Bot: i can t believe you did this .
+> what
+Bot: i made that joke up .
+> do you have it
+Bot: you know you think i would .
+> give it to me
+Bot: no .
+> where would you go now
+Bot: here you go .
+> shut up
+Bot: we re not we re not saying anything .
+> please
+Bot: so i got ya something .
+> what
+Bot: i made that joke up .
+> bye
+Bot: bye .
