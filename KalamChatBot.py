@@ -620,7 +620,7 @@ def evaluateInput(encoder, decoder, searcher, voc):
             print('Bot:', ' '.join(output_words))
 
         except KeyError:
-            print("Error: Encountered unknown word.")
+            print("I would like to speak specifically more on the topics of youth and science.")
 
 # Configure models
 model_name = 'cb_model'
