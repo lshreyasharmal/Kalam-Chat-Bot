@@ -1,3 +1,6 @@
+"""This code has been used from https://pytorch.org/tutorials/beginner/chatbot_tutorial.html
+and modified to suit our dataset.
+"""
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
